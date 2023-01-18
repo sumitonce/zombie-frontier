@@ -1,1 +1,1 @@
-# zombie-frontier
+# Zombie Frontier
